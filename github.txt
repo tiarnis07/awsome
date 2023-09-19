@@ -1,0 +1,36 @@
+nambah ke git
+add (git add . untuk semua file di folder)
+commit -m "nama keterangan commit untuk apa"
+push 
+
+
+branch
+master sama main
+bisa dihapus tapi tidak bisa di edit, jadi kalau mau ganti dihapus terus di tambah
+gantinya pakai yang git branch -m master
+
+file nya dimasukkan lewat git bash cek nambah ke git
+
+
+git init (untuk inisiasi)
+
+buat repository di github web
+
+masukkan username sama email di user dulu
+
+git init
+
+git remote add origin https://github.com/tiarnis07/folder.git
+
+git branch -M master
+
+git push -u origin master
+
+git status
+
+git add .
+
+git commit -m "keterangan"
+
+git push origin master
+
